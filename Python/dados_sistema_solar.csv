@@ -1,0 +1,10 @@
+﻿Corpo_Celeste,Tipo,Distancia_Sol_UA,Diametro_Equatorial_km,Massa_Relativa_Terra,Periodo_Orbital_Anos_Terra,Velocidade_Orbital_km_s,Temperatura_Media_C,Numero_Luas
+Mercúrio,Planeta Rochoso,0.39,4879,0.055,0.24,47.4,167,0
+Vênus,Planeta Rochoso,0.72,12104,0.815,0.62,35.0,464,0
+Terra,Planeta Rochoso,1.0,12756,1.0,1.0,29.8,15,1
+Marte,Planeta Rochoso,1.52,6792,0.107,1.88,24.1,-65,2
+Júpiter,Gigante Gasoso,5.2,142984,317.8,11.86,13.1,-110,95
+Saturno,Gigante Gasoso,9.54,120536,95.2,29.46,9.7,-140,146
+Urano,Gigante Gelado,19.22,51118,14.5,84.01,6.8,-195,27
+Netuno,Gigante Gelado,30.06,49528,17.1,164.8,5.4,-200,14
+Plutão,Planeta Anão,39.48,2376,0.0022,248.0,4.7,-225,5
